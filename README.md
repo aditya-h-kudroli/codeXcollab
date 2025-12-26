@@ -8,14 +8,14 @@
 
 | **1. Secure Login** | **2. User Registration** |
 |:---:|:---:|
-| ![Login Page](screenshots/1 loginPage.png) | ![Register Page](screenshots/2 registerPage.png) |
+| ![Login Page](screenshots/1-loginPage.png) | ![Register Page](screenshots/2-registerPage.png) |
 | *Secure authentication with JWT & MongoDB* | *Easy sign-up for new users* |
 
 <br>
 
 | **3. Dashboard** | **4. Join a Room** |
 |:---:|:---:|
-| ![Home Page](screenshots/3 homePage.png) | ![Join Room](screenshots/4 homePage with roomID.png) |
+| ![Home Page](screenshots/3-homePage.png) | ![Join Room](screenshots/4-homePage-roomID.png) |
 | *Clean interface to manage sessions* | *Generate or paste Room IDs instantly* |
 
 <br>
@@ -23,7 +23,7 @@
 ### 💻 Real-Time Collaboration Workspace
 | **5. Code Editor View** | **6. Multi-User Sync** |
 |:---:|:---:|
-| ![Editor Page](screenshots/5 editorPage.png) | ![Multi User](screenshots/6 Two users UI.png) |
+| ![Editor Page](screenshots/5-editorPage.png) | ![Multi User](screenshots/6-Two-users-UI.png) |
 | *Syntax highlighting with Dracula theme* | *Live typing sync across multiple windows* |
 
 ---
